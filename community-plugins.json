@@ -73547,5 +73547,12 @@
     "author": "CyberNative AI LLC",
     "description": "Export notes as tagged PDFs built to pass PDF/UA-1 checks, so screen readers get headings, lists, tables, links and image descriptions. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "cybernative-ai/accessible-pdf-export"
+  },
+  {
+    "id": "ai-local-translator",
+    "name": "AI Local Translator",
+    "author": "IvoryF",
+    "description": "Translate selected text in Markdown notes and PDFs with a local LLM (Ollama, LM Studio or any OpenAI-compatible endpoint). Save words to a vocabulary note in one click.",
+    "repo": "IvoryF/obsidian-ai-local-translator"
   }
 ]
